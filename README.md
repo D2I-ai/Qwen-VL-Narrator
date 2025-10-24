@@ -20,7 +20,7 @@
 
 **[[中文版本]](README-CN.md)**
 
-**Qwen-VL-Narrator** is an expert model for understanding video clips from film and TV dramas and designed to generate fine-grained descriptions of characters, scenes, and filming techniques. It can be applied to scenarios such as video retrieval, summarization, understanding, and fine-grained annotation. 
+**Qwen-VL-Narrator** is an expert model for understanding video clips from film and TV dramas and designed to generate fine-grained descriptions of characters, scenes, and filming techniques. It can be applied to scenarios such as video retrieval, summarization, understanding, and fine-grained annotation. It also helps for video generation by producing accurate prompt to "clone" a video.
 
 Please try:
 
