@@ -230,3 +230,10 @@ This model, like all large language and vision models, has limitations.
 Xiaosu Zhu, Sijia Cai, Bing Deng and Jieping Ye ***@ Data to Intelligence Lab, Alibaba Cloud***
 
 This model was made possible through the close collaboration in Data to Intelligence Lab, Alibaba Cloud.
+
+
+## Community
+
+Here we list works that adopted Qwen-VL-Narrator.
+
+1. EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer. [arXiv](https://arxiv.org/abs/2512.18814). Yuxiao Yang, Hualian Sheng, Sijia Cai, Jing Lin, Jiahao Wang, Bing Deng, Junzhe Lu, Haoqian Wang and Jieping Ye. ICLR 2026.
