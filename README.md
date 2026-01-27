@@ -38,7 +38,7 @@ Please try:
 
 Here we list works that adopted Qwen-VL-Narrator.
 
-1. **EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**. [arXiv](https://arxiv.org/abs/2512.18814). Yuxiao Yang, Hualian Sheng, Sijia Cai, Jing Lin, Jiahao Wang, Bing Deng, Junzhe Lu, Haoqian Wang and Jieping Ye. **ICLR 2026**.
+1. **EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**. [arXiv](https://arxiv.org/abs/2512.18814). [GitHub](https://github.com/YuxiaoYang23/EchoMotion). Yuxiao Yang, Hualian Sheng, Sijia Cai, Jing Lin, Jiahao Wang, Bing Deng, Junzhe Lu, Haoqian Wang and Jieping Ye. **ICLR 2026**.
 
 
 ## 📖 Model Capabilities
