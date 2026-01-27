@@ -33,6 +33,14 @@ Please try:
 * **High-Quality Video Descriptions**: Thanks to the diversity of its training samples, the model can provide more detailed video descriptions than previous models, demonstrating excellent performance for precise and comprehensive annotation.
 * **Integration with Workflows**: The model can be integrated into film and television production workflows to provide summary information for video clips to other modules, enabling capabilities like long-video consolidation and structured output.
 
+  
+## Community
+
+Here we list works that adopted Qwen-VL-Narrator.
+
+1. **EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**. [arXiv](https://arxiv.org/abs/2512.18814). Yuxiao Yang, Hualian Sheng, Sijia Cai, Jing Lin, Jiahao Wang, Bing Deng, Junzhe Lu, Haoqian Wang and Jieping Ye. **ICLR 2026**.
+
+
 ## 📖 Model Capabilities
 
 Qwen-VL-Narrator's core capabilities include:
@@ -232,8 +240,3 @@ Xiaosu Zhu, Sijia Cai, Bing Deng and Jieping Ye ***@ Data to Intelligence Lab, A
 This model was made possible through the close collaboration in Data to Intelligence Lab, Alibaba Cloud.
 
 
-## Community
-
-Here we list works that adopted Qwen-VL-Narrator.
-
-1. EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer. [arXiv](https://arxiv.org/abs/2512.18814). Yuxiao Yang, Hualian Sheng, Sijia Cai, Jing Lin, Jiahao Wang, Bing Deng, Junzhe Lu, Haoqian Wang and Jieping Ye. ICLR 2026.
