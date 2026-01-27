@@ -32,6 +32,11 @@
 * **高质量视频描述**：得益于训练样本的多样性，该模型能够提供超越以往模型的详细视频描述，在描述全面性、准确性与通用性上，均具有优异表现。
 * **易与工作流结合**：该模型可以接入影视制作工作流中，为其他流程提供视频片段总结摘要信息，从而实现长视频整合、结构化输出等能力
 
+## 社区工作
+下列工作使用了我们的模型：
+
+1. **EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer**. [arXiv](https://arxiv.org/abs/2512.18814). Yuxiao Yang, Hualian Sheng, Sijia Cai, Jing Lin, Jiahao Wang, Bing Deng, Junzhe Lu, Haoqian Wang and Jieping Ye. **ICLR 2026**.
+
 ## 📖 模型能力
 
 Qwen-VL-Narrator 核心能力包括：
